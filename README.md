@@ -10,4 +10,3 @@ pip install facebook
 ```
 
 ## Usage
-Jakub Erkiert
