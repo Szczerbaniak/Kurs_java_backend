@@ -10,3 +10,4 @@ pip install facebook
 ```
 
 ## Usage
+Piotr Szczerbaniak
