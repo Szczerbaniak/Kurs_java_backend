@@ -10,5 +10,6 @@ pip install facebook
 ```
 
 ## Usage
+Kalina Wesołowska
+Jakub Erkiert
 
-Filip Rolczak
