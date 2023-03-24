@@ -10,3 +10,5 @@ pip install facebook
 ```
 
 ## Usage
+
+Filip Rolczak
