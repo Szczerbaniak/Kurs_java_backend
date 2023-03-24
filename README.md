@@ -10,4 +10,5 @@ pip install facebook
 ```
 
 ## Usage
-Jakub Erkiert
+
+Filip Rolczak
