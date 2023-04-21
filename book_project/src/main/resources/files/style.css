@@ -1,0 +1,49 @@
+/** @format */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+table {
+	width: 100%;
+	margin-bottom: 2.4rem;
+	background-color: #20262e;
+	color: #fff;
+	border-spacing: 0;
+	overflow: hidden;
+}
+
+table tr:nth-child(even) {
+	background-color: #38404a;
+}
+
+th {
+	color: #3296ff;
+	padding: 10px 5px 10px 5px;
+}
+
+td {
+	text-align: center;
+	/* padding: 10px 5px 10px 5px; */
+	height: 70px;
+}
+
+button {
+	height: 70%;
+	background-color: transparent;
+	color: #fff;
+	border: 2px solid #3296ff;
+	width: 25%;
+	margin: 15px;
+	border-radius: 15px;
+}
+
+button:hover {
+	box-shadow: 0px 0px 20px 5px #3296ff;
+	background-color: #3296ff;
+}
+button:active {
+	box-shadow: 0px 0px 20px 9px #3296ff;
+	/* background-color: #20acda; */
+}
